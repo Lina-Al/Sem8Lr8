@@ -1,4 +1,4 @@
-# Sem8Lr8
+# Sem6Lr8
 
 Делать работу будем в Pycharm
 
